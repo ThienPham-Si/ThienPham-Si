@@ -7,9 +7,7 @@ I'm a computer science student at the University of Houston with a passion for b
 
 - 🎓 Graduating in December 2023 with a degree in computer science.
 
-- 💻 Skilled in Python, Go, Rust, Swift, C/C++, JavaScript, PHP, and a bunch of other tools and frameworks.
-
-- 🚀 Currently working as a software engineer at Stitchbox, where I help build a social networking platform for gamers.
+- 💻 Skilled in Python, Go, Rust, Swift, C/C++, JavaScript, and a bunch of other tools and frameworks.
 
 Want to get in touch? Shoot me an email at thienpham.3dev@gmail.com, or find me on LinkedIn. Let's connect!
 
